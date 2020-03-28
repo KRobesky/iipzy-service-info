@@ -1,2 +1,2 @@
-# iipzy-service-info
-Info about the iipzy network monitoring service
+# iipzy-service
+Source code for iipzy network monitoring service
